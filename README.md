@@ -40,3 +40,25 @@
 
 - O sistema encerrará a execução.
 
+#### [C] Apertando "C" poderá responder o questionario e assim criar um novo usuário. ### NEW
+
+- Questiona o usuário, seu nome, seu CPF, sua data de nascimento e Endereço
+- Ao criar um usuário é possível criar uma Conta Corrente
+
+#### [CC] Apertando "CC" poderá responder o questionario e criar uma conta corrente. ### NEW
+
+- Questiona o CPF do usuário, para poder vincular este a conta de usuário
+
+- O sistema encerrará a execução.
+
+
+# 😍 Nova Versão!
+
+## ⚙️ Mudanças 
+
+- Adicionado classes no código
+  Agora podemos criar uma conta de usuário e uma conta corrente, sendo necessário criar a de usuário primeiro, no sistema também é possível verificar diversas verificações para que tudo fique nos padrões, como CPF com 11 digitos, data de nascimento no formato correto, etc...
+  
+
+
+
