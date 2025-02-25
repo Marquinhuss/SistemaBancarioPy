@@ -57,7 +57,10 @@
 ## ⚙️ Mudanças 
 
 - Adicionado classes no código
-  Agora podemos criar uma conta de usuário e uma conta corrente, sendo necessário criar a de usuário primeiro, no sistema também é possível verificar diversas verificações para que tudo fique nos padrões, como CPF com 11 digitos, data de nascimento no formato correto, etc...
+  
+- Agora podemos criar uma conta de usuário e uma conta corrente, sendo necessário criar a de usuário primeiro
+  
+- Diversas verificações para que tudo fique nos padrões, como CPF com 11 digitos, data de nascimento no formato correto, etc...
   
 
 
